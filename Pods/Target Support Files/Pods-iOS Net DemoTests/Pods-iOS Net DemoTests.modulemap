@@ -1,0 +1,6 @@
+framework module Pods_iOS_Net_DemoTests {
+  umbrella header "Pods-iOS Net DemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
